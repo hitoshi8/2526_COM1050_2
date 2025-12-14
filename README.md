@@ -23,3 +23,9 @@ Day 4:
 5. Longest Palindromic Substring: https://leetcode.com/problems/longest-palindromic-substring/submissions/1854512656
 
 42. Trapping Rain Water: https://leetcode.com/problems/trapping-rain-water/submissions/1854541529
+
+Day 5:
+
+2147. Number of Ways to Divide a Long Corridor: https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/submissions/1855227634
+
+3623. Count Number of Trapezoids I: https://leetcode.com/problems/count-number-of-trapezoids-i/submissions/1855373195
