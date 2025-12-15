@@ -29,3 +29,9 @@ Day 5:
 2147. Number of Ways to Divide a Long Corridor: https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/submissions/1855227634
 
 3623. Count Number of Trapezoids I: https://leetcode.com/problems/count-number-of-trapezoids-i/submissions/1855373195
+
+Day 6:
+
+2110. Number of Smooth Descent Periods of a Stock: https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/submissions/1856087285
+
+36. Valid Sudoku: https://leetcode.com/problems/valid-sudoku/submissions/1856133501
