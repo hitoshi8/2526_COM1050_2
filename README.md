@@ -36,6 +36,7 @@ Day 6:
 
 3512. Minimum Operations to Make Array Sum Divisible by K: https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/submissions/1856808774
 
+Day 7:
 
 2110. Number of Smooth Descent Periods of a Stock: https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/submissions/1856087285
 
