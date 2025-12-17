@@ -41,3 +41,9 @@ Day 7:
 2110. Number of Smooth Descent Periods of a Stock: https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/submissions/1856087285
 
 36. Valid Sudoku: https://leetcode.com/problems/valid-sudoku/submissions/1856133501
+
+Day 8:
+
+167. Two Sum II - Input Array Is Sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1857793316
+
+34. Find First and Last Position of Element in Sorted Array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1857699450
