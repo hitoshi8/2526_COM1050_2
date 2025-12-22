@@ -65,3 +65,9 @@ Day 11:
 1733. Minimum Number of People to Teach: https://leetcode.com/problems/minimum-number-of-people-to-teach/submissions/1861572385
 
 955. Delete Columns to Make Sorted II: https://leetcode.com/problems/delete-columns-to-make-sorted-ii/submissions/1861440659
+
+Day 12:
+
+960. Delete Columns to Make Sorted III: https://leetcode.com/problems/delete-columns-to-make-sorted-iii/submissions/1862337169
+
+15. 3Sum: https://leetcode.com/problems/3sum/submissions/1862442886
